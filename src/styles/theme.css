@@ -1,0 +1,23 @@
+@theme {
+  /* --color-bg-aquamarine: #7FFFD4;
+  --color-bg- */
+
+  /*  */
+  --gradient-primary: linear-gradient(135deg, #74ebad, #95a4e5);
+  --color-mint: #80d9bf;
+  /* / */
+  --radius-input: 8px;
+  --color-border: #ddd;
+  --text-input: 0.938rem;
+  --spacing-input-y: 10px;
+  --spacing-input-x: 14px;
+
+  --color-card: #ffffff;
+  --radius-card: 16px;
+  --spacing-card: 24px;
+  --shadow-card: 0 10px 25px rgba(0, 0, 0, 0.15);
+
+  --width-content: 92%;
+  
+  --spacing-section-gap: 24px;
+}
