@@ -9,5 +9,5 @@ export default defineConfig({
       "@": "/src",
     },
   },
-  base: '/weather_web_app/'
+  base: '/Weather-Web-App/'
 });
